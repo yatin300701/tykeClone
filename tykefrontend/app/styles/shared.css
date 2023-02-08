@@ -1,0 +1,22 @@
+body{
+   
+    font-family: 'Roboto', sans-serif;
+}
+.h1{
+    font-size: 45px;
+    font-weight: 900;
+
+}
+.mid-body{
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+}
+.oppotunities-container{
+    background-color:rgb(247, 250, 254);
+}
+.oppotunities{
+    
+    max-width: 1000px;
+    margin: auto;
+}
